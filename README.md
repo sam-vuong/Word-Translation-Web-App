@@ -1,5 +1,5 @@
 # Word-Translation-Web-App
-A server must be used to host these files.
+A web server must be used to host these files.
 
 Web application that translates user-supplied words, provided a dictionary exists in the MySQL database that is linked to the web server. 
 
